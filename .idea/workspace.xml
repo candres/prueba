@@ -142,7 +142,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439242371391</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge branch 'master' of https://github.com/candres/prueba&#10;&#10;Conflicts:&#10;&#9;index.html&#10;">
+      <created>1439242465252</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1439242465252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
